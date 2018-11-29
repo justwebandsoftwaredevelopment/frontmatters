@@ -2,7 +2,7 @@
 
 html {
 
-  box-shadow: 0 0 0 30px #000 inset;
+  box-shadow: 0 0 0 30px #0a1f00 inset;
   padding: 0 30px;
 }
 
@@ -10,7 +10,7 @@ html {
 
 .header {
 
-  background-color: #000;
+  background-color: #0a1f00;
   color: #fff;
   position: fixed;
   width: 100%;
@@ -18,7 +18,7 @@ html {
 }
 
 .header-logo {
-  background-color: #000;
+  background-color: #0a1f00;
   box-sizing: border-box;
   display: block;
   height: 10vh;
@@ -61,7 +61,7 @@ html {
 
 .header-nav a {
 
-  color: #fff;
+  color: #d5f3c6;
   font-size: 0.8rem;
   font-weight: bold;
   text-decoration: none;
@@ -71,7 +71,7 @@ html {
 .header-nav a:hover,
 .header-nav a:active {
 
-  color: #cff90e;
+  color: #000;
 }
 
 .header-logo a:hover,
@@ -82,12 +82,12 @@ html {
 
 .header-nav > li:first-child a {
 
-  color: #cff90e;
+  color: #285b0f;
 }
 
 .header-nav > li:first-child a:hover {
 
-  color: #fff;
+  color: #d5f3c6;
 }
 
 /* END OF HEADER STYLE */ 
@@ -96,7 +96,7 @@ html {
 
 .footer {
 
-  background-color: #0a131d;
+  background-color: #0a1f00;
   padding: 10vh 0 15vh;
   text-align: center;
 }
@@ -133,7 +133,7 @@ html {
 
 .nav-links a {
 
-  color: #fff;
+  color: #d5f3c6;
   font-size: 0.8rem;
   font-weight: bold;
   text-decoration: none;
@@ -182,15 +182,15 @@ a {
 
 /* HERO STYLES */
 .full-hero {
-  background-color: #394599;
+  background-color: #285b0f;
   height: 50vh;
 }
 
-.full-hero:hover,
+/*.full-hero:hover,
 .full-hero:active {
 
-  background-color: #354559;
-}
+  background-color: #9cd282;
+}*/
 
 /* SOCIAL STYLES */
 .social-link {

@@ -1,11 +1,13 @@
-# basic options
+# Site settings
 title: Frontmatters
 author: justwebandsoftwaredevelopment
 email: justwebandsoftwaredevelopment@gmail.com
 description: Coding Site
+baseurl: "/frontmatters/"
+url: "http://justwebandsoftwaredevelopment.github.io"
 twitter_username: justwebandsoftwaredevelopment1
 github_username: justwebandsoftwaredevelopment
 
 # build settings
 markdown: kramdown
-theme: minima
+

@@ -528,6 +528,11 @@ transform: translate(0, -50%);
   text-align: center;
 }
 
+.home-section .benefit {
+
+color: red;
+}
+
 .home-callout {
   display: flex;
   align-items: center;
@@ -596,4 +601,13 @@ transform: translate(0, -50%);
   font-size: 0.75em;
   }
 
-  
+.join-box {
+
+  background-color: #fff;
+  border: 3px dotted #000;
+  border-radius: 90px;
+  font-size: 1rem;
+  margin: 0 auto 2em;
+  padding: 2em;
+  width: 50%;
+}

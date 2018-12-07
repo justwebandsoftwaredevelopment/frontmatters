@@ -441,7 +441,7 @@ width: 0;
 
 .hero-home {
 
-  background-image: url(images/people.jpg);
+  background-image: url(/images/people.jpg);
   background-position: center top;
 }
 

@@ -8,14 +8,20 @@ layout: default
 		<h1>CODE DANGEROUSLY</h1>
 		<ul class="social-list">
 		<li>
-			<a href="http://example.com" class="social-link">Fb</a>
+			<a href="http://facebook.com/frontmatters" class="social-link">
+				<i class="fa fa-facebook"></i>
+			</a>
 		</li>
 		<li>
-			<a href="http://example.com" class="social-link">Tw</a>
+			<a href="http://twitter.com/justwebandsoftwaredevelopment1" class="social-link">
+				<i class="fa fa-twitter"></i>
+			</a>
 		</li>
 		<li>
 			
-			<a href="http://example" class="social-link">Gh</a>
+			<a href="http:/github.com/frontmatters" class="social-link">
+			<i class="fa fa-github"></i>
+		</a>
 		</li>
 	</ul>
 </div>
@@ -35,6 +41,28 @@ layout: default
 <p>
 Frontmatters is an outgrowth of many years of self-taught technical sophistication experience by its founder - St. Asuzu Alfred P. M. This site is one of the sample site he developed during his quest for technical sophistication on CSS and Layout.
 </p>
+</div>
+</div>
+
+<div class="home-section">
+<h4>Most recent post</h4>
+<div class="blog-posts">
+<header class="post-header">
+<h2>
+<a href="{{ site.posts.first.url }}">
+{{ site.posts.first.title }}</a>
+</h2>
+<div class="post-byline">
+<img src="{{ site.posts.first.gravatar }}">
+<a href="{{ site.posts.first.authorTwitter }}"
+class="social-link">Tw</a>
+by: {{ site.posts.first.author }}
+<span> - {{ site.posts.first.date | date: '%B %d, %Y' }}</span>
+</div>
+</header>
+<div class="posts-image"
+style="background-image:url({{ site.posts.first.postHero }})"></div>
+{{ site.posts.first.excerpt }}
 </div>
 </div>
 

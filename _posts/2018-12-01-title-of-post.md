@@ -1,9 +1,9 @@
 ---
 layout: post
 title: This is the title of the post
-postHero: images/people.jpg
-author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
+postHero: /images/people.jpg
+author: St. Asuzu, Alfred P. M.
+authorTwitter: http://twitter.com/justwebandsoftwaredevelopment1
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
@@ -14,7 +14,7 @@ particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
 
-<img class="pull-left" src="http://placekitten.com/g/400/200"
+<img class="pull-left" src="/images/kitten.jpg"
 alt="kitten">
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,

@@ -14,7 +14,7 @@ particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
 
-<img class="pull-left" src="/images/kitten.jpg"
+<img class="pull-left" src="images/kitten.jpg"
 alt="kitten">
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,

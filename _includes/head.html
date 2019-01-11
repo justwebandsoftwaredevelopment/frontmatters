@@ -1,8 +1,13 @@
 <head>
-	{% if page.title % }
+	{% if page.title %}
 	<title>{{ page.title }} | Frontmatters</title>
 	{% else %}
     <title>Learn Coding in 2019 | Start making money with your computer while you learn: Join the Frontmatters for a guaranteed self reliance by St. Asuzu Alfred P. M.</title>
+    {% endif %}
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% else %}
+    <meta name="description" content="Learn to code in 2019, start making money with your laptop while you learn: Join the Frontmatters Community!">
     {% endif %}
     <link href="favicon.png" rel="icon">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">

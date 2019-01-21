@@ -499,7 +499,7 @@ height: 40vh;
 
 .hero-home {
 
-  background: url(people_coding.png);
+  background-image: url(frontmatters/images/people_coding.png);
   background-position: center top;
 }
 

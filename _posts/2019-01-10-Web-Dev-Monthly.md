@@ -4,7 +4,7 @@ title: Web Developer Monthly - January 2019
 postHero: images/people.jpg
 author: Andrei Neagoie
 authorTwitter: http://twitter.com/justwebandsoftwaredevelopment1
-gravatar: https://s.gravatar.com/avatar/4ce03c6e3c79f9236cee3868287d3337?s=80
+gravatar: https://s.gravatar.com/avatar/afd2658e571fce3542cc1dc863c8707c?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 

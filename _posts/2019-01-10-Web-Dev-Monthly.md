@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Web Developer Monthly - January 2019
-postHero: images/people_coding.png
+postHero: ../images/people_coding.png
 author: St. Asuzu Alfred P. M.
-authorTwitter: http://twitter.com/justwebandsoftwaredevelopment1
+authorTwitter: https://twitter.com/justwebandsoft1
 gravatar: https://s.gravatar.com/avatar/afd2658e571fce3542cc1dc863c8707c?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---

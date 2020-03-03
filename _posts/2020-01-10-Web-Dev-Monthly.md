@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Developer Monthly - January 2019
+title: Web Developer Monthly - January 2020
 postHero: ../images/people_coding.png
 author: St. Asuzu Alfred P. M.
 authorTwitter: https://twitter.com/justwebandsoft1

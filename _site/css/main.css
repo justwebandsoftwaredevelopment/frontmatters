@@ -647,6 +647,7 @@ color: red;
 .bio-box p {
 
   line-height: 2em;
+  text-align: justify;
 }
 .bio-box h3 {
   color: #fff;
